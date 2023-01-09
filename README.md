@@ -1,1 +1,1 @@
-# Portafolio creado utilizando Next.js
+# Portafolio creado con Next.js y Bootswatch
