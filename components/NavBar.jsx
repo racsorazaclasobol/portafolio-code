@@ -8,7 +8,7 @@ const NavBar = () => {
 		<nav className="navbar navbar-expand-lg navbar-dark bg-primary">
 			<div className="container">
 				
-				<a className="navbar-brand">
+				<Link href='/' className="navbar-brand">
 					¡ Hola Mundo  
 					&nbsp;
 					<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" className="bi bi-emoji-smile-fill" viewBox="0 0 16 16">
@@ -16,7 +16,7 @@ const NavBar = () => {
 					</svg>
 					&nbsp;
 					!
-				</a>
+				</Link>
 				
 				<div className="navbar-collapse justify-content-end">
 					<ul className="navbar-nav ">

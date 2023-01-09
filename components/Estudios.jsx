@@ -22,7 +22,7 @@ const Estudios = () => {
                                     { elem.duracion }
                                 </p>
                                 <p style={{ marginTop:'-5px', marginBottom:'-5px' }}>
-                                    
+
                                     {
                                         ( elem.certificado !== '' )
                                         ? ( <a href={ elem.certificado } target="_blank" className="text-muted" style={{ textDecoration:'none' }}> { elem.estado } </a> )
