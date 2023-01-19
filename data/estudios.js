@@ -24,7 +24,7 @@ export const estudios = [
         carrera: 'Node: De cero a experto',
         institucion: 'Udemy',
         duracion: '2023',
-        estado: 'En proceso...',
-        certificado: ''
+        estado: 'Ver Certificado',
+        certificado: 'https://udemy-certificate.s3.amazonaws.com/pdf/UC-f5921697-b755-4bd6-bb37-58f3f8848dae.pdf'
     },
 ]
