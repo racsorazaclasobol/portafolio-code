@@ -17,7 +17,7 @@ Este sitio cuenta con una parte publica y una privada, en la que el administrado
 
 Demo del administrador e instrucciones en el repositorio.`,
         repositorio: 'https://github.com/racsorazaclasobol/mangaWatcher',
-        enlace: 'http://otakuplanet.cl/mymanga/',
+        enlace: 'https://mymanga.vercel.app/#/home/',
         imagen: 'https://res.cloudinary.com/dmuswnvaf/image/upload/v1670807848/MyManga/Logo/Logo_Peque%C3%B1o_yrfjbi.png'
     },
     {

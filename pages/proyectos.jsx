@@ -45,16 +45,28 @@ const proyectos = () => {
 										<div className="card-body">
 											<p className="card-text" style={{ whiteSpace: 'break-spaces' }}>{ proyecto.descripcion }</p>
 										</div>
-										<div className="card-footer text-muted">
-											<a href={ proyecto.enlace } className="text-muted" target='_blank' style={{ textDecoration:'none' }}> - Ver Proyecto </a>
-											<br />
-											{
-												( proyecto.repositorio !== '' )
-												? ( <a href={ proyecto.repositorio } className="text-muted" target='_blank' style={{ textDecoration:'none' }}> - Ver Repositorio </a> )
-												: ( <></> )
-											}
-												
+										<div className="container-fluid">
+
+										</div>
+										<div className="card-footer container-fluid row justify-content-center" >
+
+											<div className="col-lg-6">
+												<a href={ proyecto.enlace } className='padding-right w-100' target='_blank' style={{ textDecoration:'none', fontSize: '15px', color:'white', fontWeight:'bold' }}>
+													<button className="btn btn-success"> Visitar </button>	
+												</a>
+											</div>
 											
+												{
+													( proyecto.repositorio !== '' )
+													? ( 
+														<div className="col-lg-6">
+															<a href={ proyecto.repositorio } className="padding-right " target='_blank' style={{ textDecoration:'none', fontSize: '15px', fontWeight: 'bolder' }}>
+																<button className="btn btn-primary"> Repositorio </button>
+															</a> 
+														</div>	
+													)
+													: ( <></> )
+												}
 										</div>
 									</div>	
 									

@@ -32,9 +32,15 @@ export const habilidadesBlandas = [
 ]
 
 export const habilidadesTecnicas = [
+    
+    {
+        nombre: 'Node',
+        porcentaje: 75,
+        color: 'bg-success'
+    },
     {
         nombre: 'React',
-        porcentaje: 75,
+        porcentaje: 73,
         color: 'bg-success'
     },
     {
@@ -43,7 +49,7 @@ export const habilidadesTecnicas = [
         color: 'bg-success'
     },
     {
-        nombre: 'Node',
+        nombre: 'Git',
         porcentaje: 65,
         color: 'bg-success'
     },
@@ -64,11 +70,6 @@ export const habilidadesTecnicas = [
     },
     {
         nombre: 'SQL Server | SQL Hana',
-        porcentaje: 55,
-        color: 'bg-info'
-    },
-    {
-        nombre: 'Git',
         porcentaje: 55,
         color: 'bg-info'
     },

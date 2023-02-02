@@ -40,7 +40,7 @@ Formé parte del equipo de Desarrollo de BCI en el area de Remesas hacia el extr
         duracion: '2019 - 2021'
     },
     {
-        titulo: 'Desarrollo Independiente Otaku Planet Marketplace',
+        titulo: 'Otaku Planet Marketplace',
         empresa: 'Desarrollo Independiente.',
         descripcion: `
 Trabaje en el desarrollo completo del Market Place Otaku Planet, proyecto terminado pero que aún no inicia actividades.
@@ -51,12 +51,12 @@ Este Market Place fue desarrollado a traves del CMS Prestashop que trabaja con P
         duracion: '2022'
     },
     {
-        titulo: 'Desarrollo Independiente MyManga',
+        titulo: 'MyManga',
         empresa: 'Desarrollo Independiente.',
         descripcion: `
-Trabajé en el desarrollo completo del Lector de Mangas MyManga, proyecto desarrollado en React en el Frontend, Firebase para el Backend y Base de datos y Cloudinary para el almacenamiento de imágenes.`,
+Trabajé en el desarrollo completo del Lector de Mangas MyManga, proyecto desarrollado en React en el Frontend, Node.Js Express Backend y Base de datos y Cloudinary para el almacenamiento de imágenes.`,
         link: 'http://www.otakuplanet.cl/mymanga/',
-        tecnologias:['React', 'Vite', 'React Router Dom', 'React Redux', 'Material UI', 'Bootstrap 5', 'Firebase Authentication', 'Firebase Firestore'],
+        tecnologias:['React', 'Vite', 'React Router Dom', 'React Redux', 'Material UI', 'Bootstrap 5', 'Firebase Auth', 'Node.js', 'Express', 'Express-Validator', 'Mongo Database', 'Cloudinary Library', 'Mongoose' ],
         duracion: '2022'
     },
 

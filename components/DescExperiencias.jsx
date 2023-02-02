@@ -20,10 +20,12 @@ export const DescExperiencias = ( {experiencia} ) => {
 
                 <hr style={{ width:'80%' }}/>
                 
-                <div>
+                <div className="row">
                     {
                         tecnologias.map( elem => (
-                            <span className="badge bg-success mx-1 my-1" >{ elem }</span>
+                            <div className="col-3">
+                                <p className="text-center fs-6 bg-info w-100 fw-bold mx-1 my-1 px-1 py-1" style={{ color: 'white' }} >{ elem }</p>
+                            </div>
                         ) )
                     }
                 </div>
