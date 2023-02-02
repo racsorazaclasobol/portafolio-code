@@ -54,9 +54,11 @@ Este Market Place fue desarrollado a traves del CMS Prestashop que trabaja con P
         titulo: 'MyManga',
         empresa: 'Desarrollo Independiente.',
         descripcion: `
-Trabajé en el desarrollo completo del Lector de Mangas MyManga, proyecto desarrollado en React en el Frontend, Node.Js Express Backend y Base de datos y Cloudinary para el almacenamiento de imágenes.`,
-        link: 'http://www.otakuplanet.cl/mymanga/',
-        tecnologias:['React', 'Vite', 'React Router Dom', 'React Redux', 'Material UI', 'Bootstrap 5', 'Firebase Auth', 'Node.js', 'Express', 'Express-Validator', 'Mongo Database', 'Cloudinary Library', 'Mongoose' ],
+Trabajé en el desarrollo completo del Lector de Mangas MyManga, proyecto desarrollado en React en el Frontend, Node.Js Express Backend y Base de datos y Cloudinary para el almacenamiento de imágenes.
+
+Frontend almacenado en Vercel y Backend en Heroku`,
+        link: 'https://mymanga.vercel.app/',
+        tecnologias:['React', 'Vite', 'React Router Dom', 'React Redux', 'Material UI', 'Bootstrap 5', 'Firebase Auth', 'Node.js', 'Express', 'Express-Validator', 'Mongo Database', 'Cloudinary Library', 'Mongoose', 'Vercel', 'Heroku' ],
         duracion: '2022'
     },
 
