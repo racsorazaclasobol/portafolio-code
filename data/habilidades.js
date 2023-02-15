@@ -44,13 +44,13 @@ export const habilidadesTecnicas = [
         color: 'bg-success'
     },
     {
-        nombre: 'Javascript',
-        porcentaje: 70,
+        nombre: 'Git',
+        porcentaje: 73,
         color: 'bg-success'
     },
     {
-        nombre: 'Git',
-        porcentaje: 65,
+        nombre: 'Javascript',
+        porcentaje: 70,
         color: 'bg-success'
     },
     {
