@@ -34,4 +34,11 @@ export const estudios = [
         estado: 'Ver Certificado',
         certificado: 'https://udemy-certificate.s3.amazonaws.com/pdf/UC-58667cdb-b8e8-44f5-8adb-afe676170020.pdf'
     },
+    {
+        carrera: 'Principios SOLID y Clean Code.',
+        institucion: 'Udemy',
+        duracion: '2023',
+        estado: 'Ver Certificado',
+        certificado: 'https://udemy-certificate.s3.amazonaws.com/pdf/UC-485b1520-e24c-4a51-a154-c4cc59a5c9e8.pdf'
+    },
 ]
