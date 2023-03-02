@@ -6,7 +6,7 @@ export const misProyectos = [
         subtitulo: 'Portafolio Profesional',
         descripcion: 'Este proyecto corresponde a mi portafolio. El sitio en el que nos encontramos actualmente',
         repositorio: 'https://github.com/racsorazaclasobol/portafolio-code',
-        enlace: 'https://portafolio-code.vercel.app/',
+        enlace: 'https://oscar-alcazar-lobos.vercel.app/',
         imagen: ''
     },
     {
