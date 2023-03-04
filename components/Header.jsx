@@ -9,9 +9,18 @@ const Header = () => {
 								<img src="/profile.jfif" className="img-fluid"/>
 							</div>
 							<div className="col-md-9">
-								<h2>Oscar Alcázar Lobos</h2>
-								<h4>Ingeniero en Informática</h4>
-								<p className="text-muted"> Personalidad: INTP-A </p>
+								<div className="row">
+									<div className="col-md-6">
+										<h2>Oscar Alcázar Lobos</h2>
+										<h4>Ingeniero en Informática</h4>
+										<p className="text-muted"> Personalidad: INTP-A </p>
+									</div>
+									<div className="col-md-6">
+										<p className="text-muted"> Correo: oscar.alcazar.lobos@gmail.com </p>
+										<p className="text-muted"> Fono: +56 9 40758145 </p>
+										<p className="text-muted"> Chile, Región Metropolitana, Maipú. </p>
+									</div>
+								</div>
 								<hr />
 								<p>
 								Trabajador respetuoso, adaptable a distintos grupos de trabajo y situaciones de presión y/o relajo, empático con sus compañeros, responsable, puntual y apasionado.
