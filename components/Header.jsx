@@ -7,10 +7,13 @@ const Header = () => {
 						<div className="row">
 							<div className="col-md-3">
 								<img src="/profile.jfif" className="img-fluid"/>
+								<div style={{ backgroundColor: 'green', height:'30px',  textAlign: 'center' }}>
+									<p style={{ color: 'white', fontWeight:'bold' }}> #OPEN TO JOB </p>
+								</div>
 							</div>
 							<div className="col-md-9">
 								<div className="row">
-									<div className="col-md-6">
+									<div className="col-md-6 mt-2">
 										<h2>Oscar Alcázar Lobos</h2>
 										<h4>Ingeniero en Informática</h4>
 										<p className="text-muted"> Personalidad: INTP-A </p>

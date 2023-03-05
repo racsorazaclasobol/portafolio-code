@@ -23,7 +23,7 @@ export const DescExperiencias = ( {experiencia} ) => {
                 <div className="row">
                     {
                         tecnologias.map( elem => (
-                            <div className="col-3">
+                            <div className="col-6 col-md-3">
                                 <p className="text-center fs-6 bg-info w-100 fw-bold mx-1 my-1 px-1 py-1" style={{ color: 'white' }} >{ elem }</p>
                             </div>
                         ) )
