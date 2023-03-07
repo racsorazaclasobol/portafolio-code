@@ -23,9 +23,9 @@ const Body = () => {
                         <div id="myTabContent" className="tab-content">
                             <div className="tab-pane fade active show" id="home" role="tabpanel">
                                 <Habilidades />
+                                <Estudios />
                             </div>
                             <div className="tab-pane fade" id="profile" role="tabpanel">
-                                <Estudios />
                             </div>
                         </div>
                     </div>
