@@ -9,7 +9,7 @@ const PortafolioLayout = ({ children }) => {
 				<NavBar />
 			</div>
 
-			<main className=" py-4" style={{ minHeight:'100vh' }}>
+			<main className="container py-4" style={{ minHeight:'100vh' }}>
 				{ children }
 			</main>
 
