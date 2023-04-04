@@ -18,27 +18,34 @@ export const estudios = [
         institucion: 'Udemy',
         duracion: '2022',
         estado: 'Ver Certificado',
-        certificado: 'https://udemy-certificate.s3.amazonaws.com/pdf/UC-6383a794-efc4-4ad8-afa6-b9c2d681411e.pdf'
+        certificado: 'https://ude.my/UC-6383a794-efc4-4ad8-afa6-b9c2d681411e'
     },  
     {
         carrera: 'Certificado en Node.Js.',
         institucion: 'Udemy',
         duracion: '2023',
         estado: 'Ver Certificado',
-        certificado: 'https://udemy-certificate.s3.amazonaws.com/pdf/UC-f5921697-b755-4bd6-bb37-58f3f8848dae.pdf'
+        certificado: 'https://ude.my/UC-f5921697-b755-4bd6-bb37-58f3f8848dae'
     },
     {
         carrera: 'Certificado en Git y Github.',
         institucion: 'Udemy',
         duracion: '2023',
         estado: 'Ver Certificado',
-        certificado: 'https://udemy-certificate.s3.amazonaws.com/pdf/UC-58667cdb-b8e8-44f5-8adb-afe676170020.pdf'
+        certificado: 'https://ude.my/UC-58667cdb-b8e8-44f5-8adb-afe676170020'
     },
     {
         carrera: 'Principios SOLID y Clean Code.',
         institucion: 'Udemy',
         duracion: '2023',
         estado: 'Ver Certificado',
-        certificado: 'https://udemy-certificate.s3.amazonaws.com/pdf/UC-485b1520-e24c-4a51-a154-c4cc59a5c9e8.pdf'
+        certificado: 'https://ude.my/UC-485b1520-e24c-4a51-a154-c4cc59a5c9e8'
+    },
+    {
+        carrera: 'Certificado en React Avanzado.',
+        institucion: 'Udemy',
+        duracion: '2023',
+        estado: 'Ver Certificado',
+        certificado: 'https://ude.my/UC-c5075640-b62d-4ac0-8373-f2f5c8cce0ee'
     },
 ]

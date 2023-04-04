@@ -8,7 +8,7 @@ const Header = () => {
 							<div className="col-md-3">
 								<img src="/profile.jfif" className="img-fluid"/>
 								<div style={{ backgroundColor: 'green', height:'30px',  textAlign: 'center' }}>
-									<p style={{ color: 'white', fontWeight:'bold' }}> #OPEN TO JOB </p>
+									<p style={{ color: 'white', fontWeight:'bold' }}> OPEN TO WORK </p>
 								</div>
 							</div>
 							<div className="col-md-9">

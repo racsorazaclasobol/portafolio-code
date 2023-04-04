@@ -6,7 +6,7 @@ export const habilidadesBlandas = [
     },
     {
         nombre: 'Entusiasmo',
-        porcentaje: 85,
+        porcentaje: 100,
         color: 'bg-success'
     },
     {
@@ -23,11 +23,6 @@ export const habilidadesBlandas = [
         nombre: 'Adaptabilidad',
         porcentaje: 80,
         color: 'bg-success'
-    },
-    {
-        nombre: 'Puntualidad',
-        porcentaje: 80,
-        color: 'bg-success'
     }
 ]
 
@@ -35,27 +30,32 @@ export const habilidadesTecnicas = [
     
     {
         nombre: 'Node',
-        porcentaje: 75,
+        porcentaje: 80,
         color: 'bg-success'
     },
     {
         nombre: 'React',
+        porcentaje:80,
+        color: 'bg-success'
+    },
+    {
+        nombre: 'Javascript',
+        porcentaje: 75,
+        color: 'bg-success'
+    },
+    {
+        nombre: 'Typescript',
         porcentaje: 73,
         color: 'bg-success'
     },
     {
         nombre: 'Git',
-        porcentaje: 73,
-        color: 'bg-success'
-    },
-    {
-        nombre: 'Javascript',
         porcentaje: 70,
         color: 'bg-success'
     },
     {
         nombre: 'Mongo DB',
-        porcentaje: 60,
+        porcentaje: 70,
         color: 'bg-success'
     },
     {
@@ -65,21 +65,26 @@ export const habilidadesTecnicas = [
     },
     {
         nombre: 'Java',
-        porcentaje: 55,
+        porcentaje: 50,
         color: 'bg-info'
     },
     {
-        nombre: 'SQL Server | SQL Hana',
-        porcentaje: 55,
+        nombre: 'SQL',
+        porcentaje: 50,
+        color: 'bg-info'
+    },
+    {
+        nombre: 'Angular',
+        porcentaje: 50,
+        color: 'bg-info'
+    },
+    {
+        nombre: 'Vue.js',
+        porcentaje: 50,
         color: 'bg-info'
     },
     {
         nombre: 'Angular JS',
-        porcentaje: 45,
-        color: 'bg-warning'
-    },
-    {
-        nombre: 'Angular',
         porcentaje: 45,
         color: 'bg-warning'
     },
@@ -92,10 +97,5 @@ export const habilidadesTecnicas = [
         nombre: 'Visual Basic | ASP',
         porcentaje: 40,
         color: 'bg-warning'
-    },
-    {
-        nombre: 'Vue.js',
-        porcentaje: 35,
-        color: 'bg-danger'
     }
 ];
