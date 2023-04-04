@@ -18,7 +18,7 @@ const NavBar = () => {
 					!
 				</Link>
 				
-				<div className="navbar-collapse justify-content-end">
+				{/* <div className="navbar-collapse justify-content-end">
 					<ul className="navbar-nav ">
 						<li className="nav-item">
 							<Link href="/" className="nav-link">
@@ -51,7 +51,7 @@ const NavBar = () => {
 							</a>
 						</li>
 					</ul>
-				</div>
+				</div> */}
 
 			</div>
 		</nav>
